@@ -6,7 +6,7 @@
 ---
 
 ## Demo
-![Jadoo Interface Screenshot](https://github.com/spywithcode/Calling_Jaadoo/assets/83329806/9a3ff736-371d-4934-98eb-39a0a8bc6556)
+![Jadoo Interface Screenshot](assets\sitepic_1.png)
 
 ---
 
@@ -51,7 +51,7 @@
 
 ## Screenshots
 
-![Screenshot](https://github.com/spywithcode/Calling_Jaadoo/assets/83329806/5feccada-a2e9-4092-b084-c03bbf85a5af)
+![Screenshot](assets\sitepic_2.png)
 
 ---
 
